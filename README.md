@@ -20,9 +20,9 @@ Familiarity with __Stored Routines__.
 
 `JavaScript`:
 Familiarity with __asynchronous programming__ 
-(__deffered object__, __non-blocking I/O__). 
+(deffered object, non-blocking I/O etc.). 
 Understanding of technologies like __AngularJS__ or __Node.js__.
-Familiarity with __jQuery__ and __Chrome API__ (__Chrome Extensions__).
+Familiarity with __jQuery__ and __Chrome API__ (Chrome Extensions).
 
 Basic knowledge other languages: __Java__, __Bash__, __Python__ and __C#__.
 Proficient with __Ubuntu__, __Git__, __Regex__, __VirutalBox__, __Apache__.
