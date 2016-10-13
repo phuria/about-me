@@ -60,7 +60,6 @@ Implementation of the users in the new functionality.
 
 Design and creating simple pages using Bootstrap and Foundation frameworks. 
 Experience in creating their own ORM or MVC frameworks. 
-Experience the creation of a simple multithreaded applications in opraciu of ptheards. 
 Experience in administration and moderation thematic forums (phpBB and vBuilletin). 
 Experience in games development (using Vallheru engine). 
 Experience in developing basic Android applications. 
