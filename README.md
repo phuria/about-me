@@ -4,21 +4,27 @@
 [![Email](https://img.shields.io/badge/email-beniamin%40simko.it-brightgreen.svg?maxAge=2592000)]()
 [![Location](https://img.shields.io/badge/location-%C5%81%C3%B3d%C5%BA%2C%20PL-red.svg?maxAge=2592000)]()
 
+> "Everyone knows that debugging is twice as hard as writing a program 
+> in the first place. So if you're as clever as you can be when you write it, 
+> how will you ever debug it?" ~ Brian Kernighan
+
 ## Technical Skills
 
-`PHP`: 
-Understanding of __object-oriented programming__ and design.
+#### PHP 
+Strong knowledge of __object-oriented programming__ and design.
 Understanding of OOP principles (such as __SOLID__, __KISS__, __DRY__) 
 and __design patterns__. 
 Familiarity with limitations of PHP as a platform and its workarounds.
-Proficient with __Symfony__, __Doctrine__, __PHPUnit__, __xDebug__, __Twig__, __websockets__.
+Proficient with __Symfony__, __Doctrine__, __PHPUnit__, __xDebug__, 
+__Twig__, __websockets__.
 
-`MySQL`: 
+#### MySQL 
 Proficient with declarative query languages.
 Knowledge of database design, storage engines, query optimization and debugging.
 Familiarity with __Stored Routines__.
 
-`JavaScript`:
+####  JavaScript
+
 Familiarity with __asynchronous programming__ 
 (deffered object, non-blocking I/O etc.). 
 Understanding of technologies like __AngularJS__ or __Node.js__.
@@ -64,6 +70,6 @@ Experience in creating their own ORM or MVC frameworks.
 Experience in administration and moderation thematic forums (phpBB and vBuilletin). 
 Experience in games development (using Vallheru engine). 
 Experience in developing basic Android applications. 
-Experience in developing Chrome Extension. 
+Experience in developing Chrome extensions. 
 Experience in developing applications based on AngularJS and WebSQL.
 Experience in software development using Continuous Integration.
