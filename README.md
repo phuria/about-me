@@ -6,26 +6,27 @@
 
 ## Technical Skills
 
-__PHP:__ 
-Understanding of `object-oriented programming` and design.
-Understanding of OOP principles (such as `SOLID`, `KISS`, `DRY`) 
-and `design patterns`. 
+`PHP`: 
+Understanding of __object-oriented programming__ and design.
+Understanding of OOP principles (such as __SOLID__, __KISS__, __DRY__) 
+and __design patterns__. 
 Familiarity with limitations of PHP as a platform and its workarounds.
-Proficient with `Symfony`, `Doctrine`, `PHPUnit`, `xDebug`, `Twig`, `websockets`.
+Proficient with __Symfony__, __Doctrine__, __PHPUnit__, __xDebug__, __Twig__, __websockets__.
 
-__MySQL:__ 
+`MySQL`: 
 Proficient with declarative query languages.
 Knowledge of database design, storage engines, query optimization and debugging.
-Familiarity with `Stored Routines`.
+Familiarity with __Stored Routines__.
 
-__JavaScript:__
-Familiarity with `asynchronous programming` (`deffered object`, `non-blocking I/O`). 
-Understanding of technologies like `AngularJS` or `Node.js`.
-Familiarity with `jQuery` and `Chrome API` (`Chrome Extensions`).
+`JavaScript`:
+Familiarity with __asynchronous programming__ 
+(__deffered object__, __non-blocking I/O__). 
+Understanding of technologies like __AngularJS__ or __Node.js__.
+Familiarity with __jQuery__ and __Chrome API__ (__Chrome Extensions__).
 
-Basic knowledge other languages: `Java`, `Bash`, `Python` and `C#`.
-Proficient with `Ubuntu`, `Git`, `Regex`, `VirutalBox`, `Apache`.
-Familiarity with `Memcached`, `Redis`, `MongoDB`, `IMAP`.
+Basic knowledge other languages: __Java__, __Bash__, __Python__ and __C#__.
+Proficient with __Ubuntu__, __Git__, __Regex__, __VirutalBox__, __Apache__.
+Familiarity with __Memcached__, __Redis__, __MongoDB__, __IMAP__.
 
 
 ### 
