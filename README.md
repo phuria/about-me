@@ -8,27 +8,38 @@
 > in the first place. So if you're as clever as you can be when you write it, 
 > how will you ever debug it?" ~ Brian Kernighan
 
+## About Me
+I'm software developer with several years of practical experience.
+I have the greatest knowledge of the PHP language and web applications are my domain.
+However, language is only tool for me.
+Depending on needs, I can use Python or Java.
+My code is focused on the readability, simplicity and reliability.
+In addition, he must be: easy to test, easy to extend, easy to reuse
+and fast as lightning.
+ 
 ## Technical Skills
 
-#### PHP 
+### PHP 
 Strong knowledge of __object-oriented programming__ and design.
 Understanding of OOP principles (such as __SOLID__, __KISS__, __DRY__) 
 and __design patterns__. 
 Familiarity with limitations of PHP as a platform and its workarounds.
 Proficient with __Symfony__, __Doctrine__, __PHPUnit__, __xDebug__, 
-__Twig__, __websockets__.
+__Twig__, __websockets__. 
 
-#### MySQL 
+### MySQL 
 Proficient with declarative query languages.
 Knowledge of database design, storage engines, query optimization and debugging.
 Familiarity with __Stored Routines__.
 
-####  JavaScript
+### JavaScript
 
 Familiarity with __asynchronous programming__ 
 (deffered object, non-blocking I/O etc.). 
 Understanding of technologies like __AngularJS__ or __Node.js__.
 Familiarity with __jQuery__ and __Chrome API__ (Chrome Extensions).
+
+### Other 
 
 Basic knowledge other languages: __Java__, __Bash__, __Python__ and __C#__.
 Proficient with __Ubuntu__, __Git__, __Regex__, __VirutalBox__, __Apache__.
