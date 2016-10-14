@@ -10,7 +10,7 @@
 
 ## About Me
 I'm software developer with several years of practical experience.
-I have the greatest knowledge of the PHP language and web applications are my domain.
+I have the greatest knowledge of PHP language and web applications are my domain.
 However, language is only tool for me.
 Depending on needs, I can use Python or Java.
 My code is focused on the readability, simplicity and reliability.
