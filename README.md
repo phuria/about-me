@@ -14,7 +14,7 @@ I have the greatest knowledge of the PHP language and web applications are my do
 However, language is only tool for me.
 Depending on needs, I can use Python or Java.
 My code is focused on the readability, simplicity and reliability.
-In addition, he must be: easy to test, easy to extend, easy to reuse
+In addition, it must be: easy to test, easy to extend, easy to reuse
 and fast as lightning.
  
 ## Technical Skills
