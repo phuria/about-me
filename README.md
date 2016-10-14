@@ -70,7 +70,7 @@ Implementation of caching solutions.
 Creating a database migrations. 
 Creating guides and instructions. 
 Supporting administrators in server maintenances.
-Implementation of the users in the new functionality.
+Implementation user in the new functionality.
 
 ### Freelancer
 
