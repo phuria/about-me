@@ -114,11 +114,12 @@ Simple 2D Arcade game written in 48 hours. Support for multiplatform and gamepad
 
 __Tags:__ Symfony 3.x Components, Docker, Microservices
 
+`August 2017`
+
 Microservice generating machine code for CNC machine tools.
 Calculating the dimensions of the furniture based on the items selected by customer.
 2D and 3D transformations for the optimization of the production process and for the support different CNC machines.
 
-`August 2017`
 
 ### Leaflets
 
