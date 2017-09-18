@@ -85,7 +85,7 @@ Implementation user in the new functionality.
 
 ### Freelancer
 
-__Tags:__ PHP, Bootstrap, Fundation, Chrome API, Microservices
+__Tags:__ Symfony, Laravel, PHP, Bootstrap, Fundation, Chrome API, Microservices
 
 `2012 - Present`
 
@@ -114,6 +114,6 @@ __Tags:__ Symfony 3.x Components, Docker, Microservices
 
 ### Leaflets
 
-__Tags:__ Symfony 3.x Components, Microsoft SQL, IIS, JavaScript
+__Tags:__ Symfony 3.x, Microsoft SQL, IIS, JavaScript
 
 `August - September 2017`
