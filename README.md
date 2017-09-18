@@ -52,7 +52,10 @@ Familiarity with __Memcached__, __Redis__, __MongoDB__, __IMAP__.
 
 ### eEngine Software House
 
-__Tags:__ Magento 2.x, PHP 7, Node.js, Symfony 3.x Components, Docker, Swagger, REST/SOAP API, Websockets
+__Tags:__ Magento 2.x, PHP 7, Node.js, Symfony 3.x Components, Docker, Swagger, REST/SOAP API, Websockets, JavaScript (ECMAScript 6), Microservices
+
+Design and implementation Magento modules.
+Implementation microservices using websockets.
 
 `July 2017 - Present`
 
@@ -60,7 +63,7 @@ __Tags:__ Magento 2.x, PHP 7, Node.js, Symfony 3.x Components, Docker, Swagger, 
 
 `June 2014 - Present`
 
-__Tags:__ Symfony 2.x, PHP 5.6/7.x, MySQL, Docker, Bootstrap, Fundation, REST API, Websockets
+__Tags:__ Symfony 2.x, PHP 5.6/7.x, MySQL, Docker, Bootstrap, Fundation, REST API, Websockets, SCSS, JavaScript
 
 Design, implementation and maintenance own CRM/CMS systems.
 Implementation solutions for invoicing and settlement. 
@@ -82,7 +85,7 @@ Implementation user in the new functionality.
 
 ### Freelancer
 
-__Tags:__ PHP, Bootstrap, Fundation, Chrome API
+__Tags:__ PHP, Bootstrap, Fundation, Chrome API, Microservices
 
 `2012 - Present`
 
@@ -105,12 +108,10 @@ __Tags:__ Python, PyGame
 
 ### ModiAssembler
 
-__Tags:__ Symfony 3.x Components, Docker
+__Tags:__ Symfony 3.x Components, Docker, Microservices
 
 `August 2017`
 
 ### Leaflets
 
-__Tags:__ Symfony 3.x Components, Microsoft SQL, IIS
-
-
+__Tags:__ Symfony 3.x Components, Microsoft SQL, IIS, JavaScript
