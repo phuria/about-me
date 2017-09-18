@@ -52,11 +52,15 @@ Familiarity with __Memcached__, __Redis__, __MongoDB__, __IMAP__.
 
 ### eEngine Software House
 
+__Tags:__ Magento 2.x, PHP 7, Node.js, Symfony 3.x Components, Docker, Swagger, REST/SOAP API, Websockets
+
 `July 2017 - Present`
 
 ### Tourmedica.pl
 
 `June 2014 - Present`
+
+__Tags:__ Symfony 2.x, PHP 5.6/7.x, MySQL, Docker, Bootstrap, Fundation, REST API, Websockets
 
 Design, implementation and maintenance own CRM/CMS systems.
 Implementation solutions for invoicing and settlement. 
@@ -78,6 +82,8 @@ Implementation user in the new functionality.
 
 ### Freelancer
 
+__Tags:__ PHP, Bootstrap, Fundation, Chrome API
+
 `2012 - Present`
 
 Design and creating simple pages using Bootstrap and Foundation frameworks. 
@@ -93,12 +99,18 @@ Experience in software development using Continuous Integration.
 
 ### Komiks Game Jam 4
 
+__Tags:__ Python, PyGame
+
 `September 2017`
 
 ### ModiAssembler
 
+__Tags:__ Symfony 3.x Components, Docker
+
 `August 2017`
 
+### Leaflets
 
+__Tags:__ Symfony 3.x Components, Microsoft SQL, IIS
 
 
