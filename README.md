@@ -50,6 +50,10 @@ Familiarity with __Memcached__, __Redis__, __MongoDB__, __IMAP__.
    
 ## Experience
 
+### eEngine Software House
+
+`July 2017 - Present`
+
 ### Tourmedica.pl
 
 `June 2014 - Present`
@@ -84,3 +88,17 @@ Experience in developing basic Android applications.
 Experience in developing Chrome extensions. 
 Experience in developing applications based on AngularJS and WebSQL.
 Experience in software development using Continuous Integration.
+
+## Projects
+
+### Komiks Game Jam 4
+
+`September 2017`
+
+### ModiAssembler
+
+`August 2017`
+
+
+
+
