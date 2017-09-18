@@ -52,13 +52,13 @@ Familiarity with __Memcached__, __Redis__, __MongoDB__, __IMAP__.
 
 ### eEngine Software House
 
+`July 2017 - Present`
+
 __Tags:__ Magento 2.x, PHP 7, Node.js, Symfony 3.x Components, Docker, Swagger, REST/SOAP API, Websockets, JavaScript (ECMAScript 6), Microservices
 
 Design and implementation Magento modules.
 Implementation microservices using websockets.
 Integration with various APIs (DaWanda, DPD, PocztaPolska etc.)
-
-`July 2017 - Present`
 
 ### Tourmedica.pl
 
