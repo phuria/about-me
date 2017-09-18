@@ -58,7 +58,8 @@ __Tags:__ Magento 2.x, PHP 7, Node.js, Symfony 3.x Components, Docker, Swagger, 
 
 Design and implementation Magento modules.
 Implementation microservices using websockets.
-Integration with various APIs (DaWanda, DPD, PocztaPolska etc.)
+Integration with various APIs (DaWanda, DPD, PocztaPolska etc.).
+Evaluating projects for clients.
 
 ### Tourmedica.pl
 
