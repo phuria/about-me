@@ -108,7 +108,7 @@ __Tags:__ Python, PyGame, Pyxel
 
 `September 2017`
 
-Simple 2D Arcade game written in 24 hours. Support for multiplatform and gamepad controllers.
+Simple 2D Arcade game written in 48 hours. Support for multiplatform and gamepad controllers.
 
 ### ModiAssembler
 
