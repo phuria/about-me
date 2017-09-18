@@ -115,3 +115,5 @@ __Tags:__ Symfony 3.x Components, Docker, Microservices
 ### Leaflets
 
 __Tags:__ Symfony 3.x Components, Microsoft SQL, IIS, JavaScript
+
+`August - September 2017`
