@@ -123,3 +123,5 @@ Calculating the dimensions of the furniture based on the items selected by custo
 __Tags:__ Symfony 3.x, Microsoft SQL, IIS, JavaScript
 
 `August - September 2017`
+
+Enterprise web application for creating advertising brochures.
