@@ -102,13 +102,19 @@ Experience in software development using Continuous Integration.
 
 ### Komiks Game Jam 4
 
-__Tags:__ Python, PyGame
+__Tags:__ Python, PyGame, Pyxel
 
 `September 2017`
+
+Simple 2D Arcade game written in 24 hours.
 
 ### ModiAssembler
 
 __Tags:__ Symfony 3.x Components, Docker, Microservices
+
+Microservice generating machine code for CNC machine tools.
+Calculating the dimensions of the furniture based on the items selected by customer.
+2D and 3D transformations for the optimization of the production process and for the support different CNC machines.
 
 `August 2017`
 
