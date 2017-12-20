@@ -63,7 +63,7 @@ Evaluating projects for clients.
 
 ### Tourmedica.pl
 
-`June 2014 - Present`
+`June 2014 - December 2017`
 
 __Tags:__ Symfony 2.x, PHP 5.6/7.x, MySQL, Docker, Bootstrap, Fundation, REST API, Websockets, SCSS, JavaScript
 
