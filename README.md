@@ -50,6 +50,10 @@ Familiarity with __Memcached__, __Redis__, __MongoDB__, __IMAP__.
    
 ## Experience
 
+### Optima Logistics Group
+
+`January 2018 - Present`
+
 ### eEngine Software House
 
 `July 2017 - Present`
